@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @numericly
 - 👀 I’m interested in web and backend development
-- 🌱 I’m currently learning Vue3.js
+- 🌱 I’m currently learning Rust and Svelte
 - 📫 How to reach me `numericly.1@gmail.com`
 
 <!---
