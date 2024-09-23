@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @numericly
-- 👀 I like Rust btw
 - 📫 How to reach me `numericly.1@gmail.com`
 - You should check out WillScript 😎 (once I finish it)
 <!---
